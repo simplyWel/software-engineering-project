@@ -1,0 +1,16 @@
+# Ignorar diretório bin (contém executáveis e artefatos de build)
+bin/
+# Ou, se preferir ignorar apenas o executável específico:
+# bin/*.exe
+
+# Ignorar objetos e bibliotecas geradas
+*.o
+*.a
+*.so
+*.dll
+*.dll.a
+
+# Arquivos temporários/IDE
+*.swp
+*.log
+.vscode/
