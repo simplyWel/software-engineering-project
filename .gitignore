@@ -1,0 +1,13 @@
+# binários
+/bin/*
+*.exe
+*.o
+*.a
+*.so
+*.dll
+
+# cache e temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
